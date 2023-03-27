@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Df1e444D1AXM04RiQmW1HZ3ERpraZbNCICD7K0tuOMk=",
+  "Source": "TestProxy",
+  "BasePath": "_content/TestProxy",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

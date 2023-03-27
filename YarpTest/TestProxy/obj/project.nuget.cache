@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a2EqQ7WP1B89e4/8t+2wgSj1qAMIiiz9wpXAAenVvHhHRYU+6PioNCP+8X5OWJOqwd+9aoqrMHdsbjBp5mur3A==",
+  "success": true,
+  "projectFilePath": "C:\\develop\\github\\yarp-bug-reproduction\\YarpTest\\TestProxy\\TestProxy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alkam\\.nuget\\packages\\system.io.hashing\\7.0.0\\system.io.hashing.7.0.0.nupkg.sha512",
+    "C:\\Users\\alkam\\.nuget\\packages\\yarp.reverseproxy\\2.0.0\\yarp.reverseproxy.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
